@@ -2,7 +2,7 @@
 This is my first repository!
 <hr>
 <br>
-name = kabir
+<h2>name = kabir</h2>
 <br>
-age = 18
+<h3>age = 18</h3>
 <hr>
